@@ -1,0 +1,5 @@
+D:\rajan\taaseen\biswjit\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.exe
+D:\rajan\taaseen\biswjit\GeneticAlgo\GeneticAlgo\bin\Debug\GeneticAlgo.pdb
+D:\rajan\taaseen\biswjit\GeneticAlgo\GeneticAlgo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\rajan\taaseen\biswjit\GeneticAlgo\GeneticAlgo\obj\x86\Debug\GeneticAlgo.exe
+D:\rajan\taaseen\biswjit\GeneticAlgo\GeneticAlgo\obj\x86\Debug\GeneticAlgo.pdb
